@@ -24,3 +24,6 @@ CREATE TABLE public.contas (
 	cliente varchar NOT NULL,
 	saldo float8 NOT NULL
 );
+
+segue link de apresentação do trabalho
+https://1drv.ms/v/s!AkRo4C8UuKaBg9cnJBkCEOiNycPCFQ?e=Nga4zK
